@@ -2,13 +2,13 @@
 
 ### Install the package in Sublime
 1. ⇧⌘P (on Mac) or ctrl⇧P 
-2. Click on `Package Control: Install Package`
+2. Type in `Package Control: Install Package`
 3. Choose `Floobits`
 
 ### Sign-up for Floobits (free)
 1. Click on `Automatically create a Floobits account`
 2. ⇧⌘P (on Mac) or ctrl⇧P 
-3. Type `Flootbits - Complete Signup`
+3. Type in `Flootbits - Complete Signup`
 4. Create an account
 
 ### Join our Session
