@@ -17,4 +17,4 @@
 3. Enter in URL `https://floobits.com/dougberks/livecodes-394`
 4. It'll ask you to save local files. Just hit `enter` one more time to save files.
 5. Click on `Create Directory`
-6. Open the file you 
+6. Open the file
